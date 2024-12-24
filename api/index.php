@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="content">
-        <h3>O caminho único para que a construção de <br> <u>mentes melhores</u> em meio ao novo mundo.</h3>
+        <h3> .O caminho único para que a construção de <br> <u>mentes melhores</u> em meio ao novo mundo.</h3>
     </div>
 </body>
 </html>
